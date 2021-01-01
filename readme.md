@@ -28,7 +28,7 @@ test()
 
 ## 操作说明
 
-![image-20210101203813977](C:\Users\luochengyu\AppData\Roaming\Typora\typora-user-images\image-20210101203813977.png)
+![avatar](https://github.com/lcy1317/SEUnewxk/blob/main/image-20210101203813977.png)
 
 - Step1：点击键盘F12找到控制台
 - Step2：点击上方箭头指向位置
