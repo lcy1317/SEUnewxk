@@ -35,7 +35,7 @@ test()
 - Step3：点击后将鼠标移动到你想要的选的课的位置
 - Step4：在右侧控制台找到课程ID号高效，操作简单，代码简洁易懂！
 
-![image-20210101204254466](C:\Users\luochengyu\AppData\Roaming\Typora\typora-user-images\image-20210101204254466.png)
+![avatar](https://github.com/lcy1317/SEUnewxk/blob/main/image-20210101204254466.png)
 
 - Step5：复制课程id至代码中tcId变量
 - Step6：点击console，将代码复制进去，回车开始选课
