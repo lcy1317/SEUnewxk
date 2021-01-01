@@ -33,7 +33,7 @@ test()
 - Step1：点击键盘F12找到控制台
 - Step2：点击上方箭头指向位置
 - Step3：点击后将鼠标移动到你想要的选的课的位置
-- Step4：在右侧控制台找到课程ID号高效，操作简单，代码简洁易懂！
+- Step4：在右侧控制台找到课程ID号
 
 ![avatar](https://github.com/lcy1317/SEUnewxk/blob/main/image-20210101204254466.png)
 
